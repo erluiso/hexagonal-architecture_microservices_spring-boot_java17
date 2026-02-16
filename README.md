@@ -14,7 +14,7 @@ For the example, you can use any of the symbols available on Kucoin (BTC, ETH, D
 
 ## Screenshot
 
-
+![Alt text](screenshot.png)
 
 ## How to run it?
 
