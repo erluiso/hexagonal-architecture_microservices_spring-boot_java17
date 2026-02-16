@@ -28,3 +28,7 @@ mvn spring-boot:run
 You have one endpoint:
 
 Get - http://localhost:8080/ticker/{symbol}
+
+And that's all!
+
+Developed by Luis L.T.
