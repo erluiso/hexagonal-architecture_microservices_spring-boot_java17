@@ -1,0 +1,8 @@
+#                        #
+# ARCHITECTURE ENDPOINTS #
+#                        #
+
+### Get ticker by symbol
+GET http://localhost:8080/ticker/ETH
+
+GET http://localhost:8080/ticker/BTC
