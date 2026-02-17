@@ -12,16 +12,16 @@ Our **microservice** is composed of the layers used in a project built with `hex
 
 For the example, you can use any of the symbols available on Kucoin (BTC, ETH, DOT, SHIB, ADA, AVAX, etc.).
 
-## Screenshot
-
-![Alt text](screenshot.png)
-
 ## How to run it?
 
 ```
 mvn spring-boot:run
 
 ```
+
+## Screenshot
+
+![Alt text](screenshot.png)
 
 ## How can I test it?
 
